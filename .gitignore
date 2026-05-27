@@ -1,5 +1,6 @@
-# Local AI tooling (BMad agent skill installs are user-level, not project code)
+# Local AI tooling (BMad agent skill installs and config are user-level, not project code)
 .claude/
+_bmad/
 
 # Node / Next.js
 node_modules/
